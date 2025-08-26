@@ -1,0 +1,33 @@
+import java.util.*;
+public class Tree {
+	Class Node{
+		int val;
+		Node right;
+		Node left;
+	}
+private Node root;
+Scanner sc=new Scanner(System.in);
+public Tree() {
+	this.root=createNode();
+}
+private Node createNode();{
+	int item=sc.nextInt();
+	Node nn=new Node();
+	nn.val=item;
+	
+	System.out.println("Want left");
+	boolean lf=sc.nextBoolean();
+	if(lf)=nn.left=createNode();
+
+
+	boolean rf=sc.nextBoolean();
+	if(rf)=nn.right=createNode();
+	
+	System.out.println("Want right");
+}
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

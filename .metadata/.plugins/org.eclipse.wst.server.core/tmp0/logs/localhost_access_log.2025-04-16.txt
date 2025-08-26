@@ -1,0 +1,16 @@
+127.0.0.1 - - [16/Apr/2025:00:44:11 +0530] "GET / HTTP/1.1" 404 751
+127.0.0.1 - - [16/Apr/2025:00:44:35 +0530] "GET /RegistrationApp/register.jsp HTTP/1.1" 200 118
+127.0.0.1 - - [16/Apr/2025:00:44:44 +0530] "GET /RegistrationApp/register.jsp HTTP/1.1" 200 118
+127.0.0.1 - - [16/Apr/2025:00:44:44 +0530] "GET /RegistrationApp/register.jsp HTTP/1.1" 200 118
+127.0.0.1 - - [16/Apr/2025:00:46:40 +0530] "GET /RegistrationApp/register.jsp HTTP/1.1" 200 118
+127.0.0.1 - - [16/Apr/2025:00:46:40 +0530] "GET /RegistrationApp/register.jsp HTTP/1.1" 200 118
+127.0.0.1 - - [16/Apr/2025:12:24:20 +0530] "GET / HTTP/1.1" 404 751
+127.0.0.1 - - [16/Apr/2025:12:24:43 +0530] "GET /your-app-name/hello HTTP/1.1" 404 774
+127.0.0.1 - - [16/Apr/2025:12:24:43 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+127.0.0.1 - - [16/Apr/2025:12:26:20 +0530] "GET /your-app-name/hello HTTP/1.1" 404 774
+127.0.0.1 - - [16/Apr/2025:12:26:21 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+127.0.0.1 - - [16/Apr/2025:12:33:44 +0530] "GET /your-app-name/hello HTTP/1.1" 404 774
+127.0.0.1 - - [16/Apr/2025:12:33:44 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+127.0.0.1 - - [16/Apr/2025:12:37:56 +0530] "GET /your-app-name/hello HTTP/1.1" 404 774
+127.0.0.1 - - [16/Apr/2025:12:37:57 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+127.0.0.1 - - [16/Apr/2025:12:37:58 +0530] "GET /your-app-name/hello HTTP/1.1" 404 774

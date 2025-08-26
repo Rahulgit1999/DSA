@@ -1,0 +1,22 @@
+package Recursion;
+
+
+
+public class BoardPath {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		myPath(0,4,"");
+	}
+
+	private static void myPath(int i, int j, String ans) {
+		// TODO Auto-generated method stub
+		if(j==i) {System.out.println(ans); return;}
+		if(i>j) return;
+		for(int k=1;k<=j;k++) {
+			myPath(i+k,j,ans+k);
+		}
+		
+	}
+
+}
